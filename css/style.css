@@ -4,7 +4,7 @@
 @font-face {
   font-family: 'Corvetta';
   src: local('Corvetta'), url('../font/Corvetta-Black.ttf');
-
+}
 /* Basic settings */
 html {
   font-size: 8px;
@@ -15,7 +15,6 @@ body {
   background-attachment: fixed;
   background: #121212 url(../img/background.png);
   font-family: "Nunito";
-  font-weight: 900;
   font-size:  8rem;
   padding-top: 4rem;
   padding-left: 5%;
@@ -27,7 +26,7 @@ h1 {
   font-size: 4rem;
   line-height: 4rem;
   font-family: "Nunito";
-  font-weight: 600;
+  font-weight: 900;
 }
 
 /* Style settings */
